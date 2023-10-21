@@ -1,0 +1,42 @@
+ol {
+    background-color: red;
+}
+
+img {
+    width: 400px;
+}
+
+.question {
+    color: red;
+}
+
+.answer {
+    color:blue;
+}
+
+.welcome {
+    height: 100px;
+    padding: 16px;
+    border: 4px solid red;
+    margin: 32px;
+
+    position: sticky;
+    top: 100px;
+    left: 200px;
+}
+
+.btn-q4 {
+    margin-left: 40px;
+}
+
+#welcome-div {
+    background-color: aliceblue;
+}
+
+/* li > ol {
+    list-style-type: none;
+} */
+
+body ol {
+    list-style-type: none;
+}
